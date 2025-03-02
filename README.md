@@ -5,9 +5,13 @@ LifeSense is an intelligent AI-powered accident and fall detection system that l
 ✅ Real-Time Accident Detection – Monitors live video streams to detect falls and accidents with high accuracy.
 
 ✅ AI & Computer Vision – Uses state-of-the-art deep learning models for precise recognition.
+
 ✅ Instant Alerts – Sends emergency notifications via SMS, email, or an app.
+
 ✅ Smart Monitoring – Ideal for hospitals, elderly care, workplaces, and public areas.
+
 ✅ User-Friendly Interface – A clean and intuitive UI for monitoring and managing alerts.
+
 ✅ Customizable – Easily adaptable for different use cases and environments.
 
 🎨 Frontend Development
